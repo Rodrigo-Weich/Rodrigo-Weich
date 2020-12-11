@@ -8,9 +8,7 @@
 ### What I'm working on 👨‍💻
 
 :school: Systems Analyst <br>
-
 🌎 Web developer <br>
-
 🚀 I develop web applications that help my friends solve their daily problems <br>
 
 ### Find me elsewhere 🌎
